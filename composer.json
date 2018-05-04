@@ -20,7 +20,7 @@
   },
   "require": {
     "php": "^5.5 || ^7.0",
-    "contao/core-bundle": "^3.1 || ^4.2",
+    "contao/core-bundle": "^4.4",
     "contao-community-alliance/composer-plugin": "^2.4 || ^3.0",
     "metamodels/attribute_file": "^2.0",
     "richardhj/contao-widget-upload-preview": "^1.0"
